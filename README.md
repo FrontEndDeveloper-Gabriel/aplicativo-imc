@@ -1,6 +1,6 @@
 # CÓDIGO EM PYTHON - APLICATIVO DE MEDIR ICM
 
-# <h2>O QUE É?
+<h2>O QUE É?
 <strong>Introdução:</strong> Um aplicativo para medir seu IMC. <br>
 </h2>
 
