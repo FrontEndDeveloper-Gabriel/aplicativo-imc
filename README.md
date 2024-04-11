@@ -4,7 +4,7 @@
 <strong>Introdução:</strong> Um aplicativo para medir seu IMC. <br>
 </h2>
 
-# <h3>COMO FUNCIONA?
+<h3>COMO FUNCIONA?
 <strong>Manual:</strong> Será exibida uma tela pedindo IDADE, PESO e ALTURA; <br>
 <strong>Chances:</strong> Preenchenco estes três campos, será exibida seu IMC  e sua situação de peso. <br>
 
