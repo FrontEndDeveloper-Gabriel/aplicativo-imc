@@ -17,13 +17,13 @@ def imc():
     elif imc_resultado >= 18.5:
        classificacao.config(text=f"Sua situação: Peso Normal")
     elif imc_resultado >= 25:
-       print("Sobrepeso")
+       classificacao.config(text=f"Sua situação: Sobrepeso")
     elif imc_resultado >= 30:
-       print("Obesidade Grau I")
+       classificacao.config(text=f"Sua situação: Obesidade Grau I")
     elif imc_resultado >= 35:
-       print("Obesidade Grau II")
+       classificacao.config(text=f"Sua situação: Obesidade Grau II")
     elif imc_resultado > 40:
-       print("Obesidade Grau III")
+       classificacao.config(text=f"Sua situação: Obesidade Grau III")
 
 
 # CRIANDO O TÍTULO ✔
