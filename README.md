@@ -5,8 +5,8 @@
 </h2>
 
 # <h3>COMO FUNCIONA?
-<strong>Manual:</strong> Será exibida uma tela pedindo IDADE, PESO e ALTURA; <br>
-<strong>Resultado:</strong> Preenchendo estes três campos, será exibida seu IMC  e sua situação de peso. <br>
+<strong>Manual:</strong> Será exibida uma tela pedindo <b>IDADE</b>, <b>PESO</b> e <b>ALTURA</b>; <br>
+<strong>Resultado:</strong> Preenchendo estes três campos, será exibida o IMC e a situação de peso do usuário. <br>
 </h3>
 
 # <h4>Requisitos:
