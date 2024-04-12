@@ -12,6 +12,7 @@ def imc():
     imc_resultado = massa // altura_calculada
     result.config(text=f"Seu IMC: {imc_resultado}")
 
+# CRIAR UMA CONDIÇÃO PARA CHECAR A SITUAÇÃO DE PESO DO USUÁRIO ✔
     if imc_resultado <= 18.5:
        classificacao.config(text=f"Sua situação: Abaixo do Peso")
     elif imc_resultado >= 18.5:
