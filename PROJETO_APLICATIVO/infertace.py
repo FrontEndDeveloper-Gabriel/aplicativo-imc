@@ -1,6 +1,6 @@
-# DESENVOLVER UMA INTERFAÇE PARA AS PESSOAS MEDIREM SEU PESO
+# DESENVOLVER UMA INTERFACE PARA AS PESSOAS MEDIREM SEU PESO
 
-# IMPORTAR O RKINTER ✔
+# IMPORTAR O TKINTER ✔
 import tkinter as tk
 
 # CRIAR UMA FUNÇÃO PARA QUE O IMC POSSA SER UTILIZADO ✔
@@ -13,9 +13,9 @@ def imc():
     result.config(text=f"Seu IMC: {imc_resultado}")
 
     if imc_resultado <= 18.5:
-       print("Abaixo do Peso")
+       classificacao.config(text=f"Abaixo do Peso")
     elif imc_resultado >= 18.5:
-       print("Peso Normal")
+       print(text="Peso Normal")
     elif imc_resultado >= 25:
        print("Sobrepeso")
     elif imc_resultado >= 30:
@@ -82,7 +82,7 @@ result = tk.Label(root, text="Seu IMC: ")
 result.pack()
 
 # CAMPO PARA EXIBIR SUA SITUAÇÃO, DE ACORDO COM A OMS ✔
-result = tk.Label(root, text="Resultado")
-result.pack()
+classificacao = tk.Label(root, text="Resultado: ")
+classificacao.pack()
 
 root.mainloop()
