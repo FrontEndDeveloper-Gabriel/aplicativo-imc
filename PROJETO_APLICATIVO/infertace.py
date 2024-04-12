@@ -13,9 +13,9 @@ def imc():
     result.config(text=f"Seu IMC: {imc_resultado}")
 
     if imc_resultado <= 18.5:
-       classificacao.config(text=f"Sua situação:Abaixo do Peso")
+       classificacao.config(text=f"Sua situação: Abaixo do Peso")
     elif imc_resultado >= 18.5:
-       print(text="Peso Normal")
+       classificacao.config(text=f"Sua situação: Peso Normal")
     elif imc_resultado >= 25:
        print("Sobrepeso")
     elif imc_resultado >= 30:
