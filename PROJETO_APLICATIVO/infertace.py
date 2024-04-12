@@ -13,7 +13,7 @@ def imc():
     result.config(text=f"Seu IMC: {imc_resultado}")
 
     if imc_resultado <= 18.5:
-       classificacao.config(text=f"Abaixo do Peso")
+       classificacao.config(text=f"Sua situação:Abaixo do Peso")
     elif imc_resultado >= 18.5:
        print(text="Peso Normal")
     elif imc_resultado >= 25:
@@ -82,7 +82,7 @@ result = tk.Label(root, text="Seu IMC: ")
 result.pack()
 
 # CAMPO PARA EXIBIR SUA SITUAÇÃO, DE ACORDO COM A OMS ✔
-classificacao = tk.Label(root, text="Resultado: ")
+classificacao = tk.Label(root, text="Sua situação: ")
 classificacao.pack()
 
 root.mainloop()
