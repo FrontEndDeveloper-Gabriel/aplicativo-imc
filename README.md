@@ -1,7 +1,7 @@
 # CÓDIGO EM PYTHON - APLICATIVO DE MEDIR ICM
 
 # <h2>O QUE É?
-<strong>Introdução:</strong> Um jogo interativo onde 2 jogadores vão disputar um contra o outro para ver quem vai conseguir acertar um determinado número aleatoriamente. <br>
+<strong>Introdução:</strong> Um Aplicativo desenvolvido em Python para medir o ICM do usuário. <br>
 </h2>
 
 # <h3>COMO FUNCIONA?
