@@ -73,7 +73,7 @@ label00.pack()
 # ---------------------
 
 # CRIANDO O BOTÃO PARA QUE POSSA CALCULAR ✔
-btn1 = tk.Button(root, text="IMC", width= 20, fg="white", bg="#000000", command=imc)
+btn1 = tk.Button(root, text="Medir IMC", width= 20, fg="white", bg="#000000", command=imc)
 btn1.pack()
 
 # ---------------------
