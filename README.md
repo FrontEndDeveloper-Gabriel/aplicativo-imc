@@ -4,11 +4,11 @@
 </h3>
 
 # <h3>COMO FUNCIONA? <br>
-º Aparecerá uma tela POP-UP com os seguintes campos: <b>IDADE</b>, <b>PESO</b> e <b>ALTURA</b>; <br>
-º Preenchido os campos, será calculado e exibido o resultado de ICM do usuário e a sua situação de peso.
+º Será exibida uma tela POP-UP com os seguintes campos: <b>IDADE</b>, <b>PESO</b> e <b>ALTURA</b>; <br>
+º Depois de preenchido os campos, será calculado e exibido o resultado ICM do usuário e a sua situação de peso.
 
 <strong>
-Obs: A sitação de peso é classificada de acordo com a OMS (Organização Mundial de Saúde).</strong>
+Obs: A situação de peso é classificada de acordo com a OMS (Organização Mundial de Saúde).</strong>
 </h3>
 
 
