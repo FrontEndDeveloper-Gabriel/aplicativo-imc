@@ -1,5 +1,5 @@
 # CÓDIGO EM PYTHON - APLICATIVO PARA CALCULAR O ICM
-<h2>O QUE É?
+<h2>O QUE É? <br>
 <strong>Introdução:</strong> Um Aplicativo desenvolvido em Python para calcular o ICM do usuário. <br>
 </h2>
 
