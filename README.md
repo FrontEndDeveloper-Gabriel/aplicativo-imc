@@ -1,8 +1,8 @@
 # CÓDIGO EM PYTHON - APLICATIVO PARA CALCULAR O ICM
 
-# <h2>O QUE É?
+# O QUE É?
 <strong>Introdução:</strong> Um Aplicativo desenvolvido em Python para calcular o ICM do usuário. <br>
-</h2>
+
 
 # <h3>COMO FUNCIONA?
 <strong>Manual:</strong> Será exibida uma tela com os seguintes campos: <b>IDADE</b>, <b>PESO</b> e <b>ALTURA</b>; <br>
