@@ -12,6 +12,6 @@ Obs: A situação de peso é classificada de acordo com a OMS (Organização Mun
 </h3>
 
 
-# <h4>Requisitos:
+# <h3>Requisitos:
  ● Ter um editor de texto na máquina; <br>
- ● Ter o Visual Studio Code ou o IDLE Python instalado na máquina.</h4>
+ ● Ter o Visual Studio Code ou o IDLE Python instalado na máquina.</h3>
