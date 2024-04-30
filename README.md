@@ -5,7 +5,7 @@ Um Aplicativo desenvolvido em Python para calcular o IMC do usuário.
 
 # <h3>Como funciona? <br>
  ● Será exibida uma tela POP-UP com os seguintes campos: <b>IDADE</b>, <b>PESO</b> e <b>ALTURA</b>; <br>
- ● Depois de preenchido os campos, será calculado e exibido o resultado ICM do usuário e a sua situação de peso.
+ ● Depois de preenchido os campos, será calculado e exibido o resultado IMC do usuário e a sua situação de peso.
 
 <br>
 <strong>
