@@ -14,7 +14,6 @@
 ● A pop-up window is displayed with the following input fields: Age, Weight, and Height.
 ● After filling in the fields, the system calculates the BMI value.
 ● The application displays the BMI result along with the user's weight classification.
-
 ```
 <strong>Note: The weight classification follows the World Health Organization (WHO) standards.</strong>
 
